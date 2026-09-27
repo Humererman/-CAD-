@@ -1,0 +1,34 @@
+{
+  "status": "ok",
+  "source_dxf": "d:\\看不见我\\看不见我\\Drawing2.dxf",
+  "raw_entity_count": 141,
+  "segment_count": 141,
+  "3b_motion_blocks": 302,
+  "start_point_mm": [
+    0.0,
+    9.411207128781037
+  ],
+  "direction": "clockwise",
+  "signed_area": -700.6936858710948,
+  "clockwise_ok": true,
+  "max_joint_gap_mm": 5.529547474855504e-12,
+  "bounds_mm": {
+    "width": 60.0,
+    "height": 45.482283582051906,
+    "min_x": 0.0,
+    "min_y": 0.0,
+    "max_x": 60.0,
+    "max_y": 45.482283582051906
+  },
+  "translate_origin": [
+    2185.2012644071037,
+    1320.1569794060788
+  ],
+  "scale_applied": 0.06041852309675939,
+  "outputs": {
+    "3b": "d:\\看不见我\\看不见我\\Drawing2.3B",
+    "manifest": "d:\\看不见我\\看不见我\\Drawing2_3b_manifest.csv",
+    "preview": "d:\\看不见我\\看不见我\\Drawing2_3b_preview.png",
+    "report": "d:\\看不见我\\看不见我\\Drawing2_3b_report.json"
+  }
+}
